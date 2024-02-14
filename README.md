@@ -1,3 +1,5 @@
+Medical Segmentation
+
 1. label 2 vs label 4
 2. Dice vs Crossentropy
 3. channel 1 vs channel 3
